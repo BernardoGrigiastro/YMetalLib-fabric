@@ -1,0 +1,22 @@
+{
+    "replace": false,
+    "values": [
+        "ymetallib:platinum_block",
+        "ymetallib:steel_block",
+        "ymetallib:titanium_block",
+        "ymetallib:platinum_ore",
+        "ymetallib:titanium_ore",
+        "ymetallib:deepslate_platinum_ore",
+        "ymetallib:deepslate_titanium_ore",
+        "ymetallib:diorite_platinum_ore",
+        "ymetallib:diorite_titanium_ore",
+        "ymetallib:granite_platinum_ore",
+        "ymetallib:granite_titanium_ore",
+        "ymetallib:andesite_platinum_ore",
+        "ymetallib:andesite_titanium_ore",
+        "ymetallib:nether_platinum_ore",
+        "ymetallib:nether_titanium_ore",
+        "ymetallib:end_platinum_ore",
+        "ymetallib:end_titanium_ore"
+    ]
+}

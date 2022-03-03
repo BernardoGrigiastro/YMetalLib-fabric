@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ymetallib:tin_can"
+    },
+    {
+      "tag": "ymetallib:water_one_third_bucket"
+    },
+    {
+      "tag": "ymetallib:water_one_third_bucket"
+    },
+    {
+      "tag": "ymetallib:water_one_third_bucket"
+    }
+  ],
+  "result": {
+    "item": "ymetallib:water_tin_can",
+    "count": 1
+  }
+}

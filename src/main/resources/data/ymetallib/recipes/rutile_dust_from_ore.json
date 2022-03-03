@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:titanium_ores"
+  },
+  "result": "ymetallib:titanium_mixture",
+  "experience": 1.00,
+  "cookingtime": 200
+}

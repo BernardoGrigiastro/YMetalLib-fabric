@@ -1,0 +1,29 @@
+{
+    "replace": false,
+    "values": [
+        "ymetallib:tin_block",
+        "ymetallib:lead_block",
+        "ymetallib:silver_block",
+        "ymetallib:tin_ore",
+        "ymetallib:lead_ore",
+        "ymetallib:silver_ore",
+        "ymetallib:deepslate_tin_ore",
+        "ymetallib:deepslate_lead_ore",
+        "ymetallib:deepslate_silver_ore",
+        "ymetallib:diorite_tin_ore",
+        "ymetallib:diorite_lead_ore",
+        "ymetallib:diorite_silver_ore",
+        "ymetallib:granite_tin_ore",
+        "ymetallib:granite_lead_ore",
+        "ymetallib:granite_silver_ore",
+        "ymetallib:andesite_tin_ore",
+        "ymetallib:andesite_lead_ore",
+        "ymetallib:andesite_silver_ore",
+        "ymetallib:nether_tin_ore",
+        "ymetallib:nether_lead_ore",
+        "ymetallib:nether_silver_ore",
+        "ymetallib:end_tin_ore",
+        "ymetallib:end_lead_ore",
+        "ymetallib:end_silver_ore"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "replace": false,
+    "values": [
+        "ymetallib:bronze_block",
+        "ymetallib:nickel_block",
+        "ymetallib:invar_block",
+        "ymetallib:electrum_block",
+        "ymetallib:aluminum_block",
+        "ymetallib:nickel_ore",
+        "ymetallib:aluminum_ore",
+        "ymetallib:deepslate_nickel_ore",
+        "ymetallib:deepslate_aluminum_ore",
+        "ymetallib:diorite_nickel_ore",
+        "ymetallib:diorite_aluminum_ore",
+        "ymetallib:granite_nickel_ore",
+        "ymetallib:granite_aluminum_ore",
+        "ymetallib:andesite_nickel_ore",
+        "ymetallib:andesite_aluminum_ore",
+        "ymetallib:nether_nickel_ore",
+        "ymetallib:nether_aluminum_ore",
+        "ymetallib:end_nickel_ore",
+        "ymetallib:end_aluminum_ore"
+    ]
+}

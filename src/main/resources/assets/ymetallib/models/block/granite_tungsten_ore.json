@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "ymetallib:block/granite_tungsten_ore"
+  }
+}

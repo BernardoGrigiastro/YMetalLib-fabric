@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:tungsten_dusts"
+  },
+  "result": "ymetallib:tungsten_ingot",
+  "experience": 1.00,
+  "cookingtime": 10
+}

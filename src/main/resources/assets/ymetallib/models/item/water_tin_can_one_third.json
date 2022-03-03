@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ymetallib:item/water_tin_can_one_third"
+  }
+}

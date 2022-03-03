@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "BBB",
-    "BBB",
-    "BBB"
+    " TT",
+    "T T",
+    "TT "
   ],
   "key": {
-    "B": {
-      "tag": "c:titanium_nuggets"
+    "T": {
+      "tag": "c:tin_plates"
     }
   },
   "result": {
-    "item": "ymetallib:titanium_ingot",
+    "item": "ymetallib:tin_can",
     "count": 1
   }
 }

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ymetallib:acidic_tungsten_mixture"
+  },
+  "result": "ymetallib:tungsten_ingot",
+  "experience": 1.00,
+  "cookingtime": 400
+}

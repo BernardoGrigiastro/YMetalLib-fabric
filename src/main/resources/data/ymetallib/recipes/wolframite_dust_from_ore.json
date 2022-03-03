@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "tag": "c:tungsten_ores"
+  },
+  "result": "ymetallib:tungsten_mixture",
+  "experience": 1.00,
+  "cookingtime": 400
+}

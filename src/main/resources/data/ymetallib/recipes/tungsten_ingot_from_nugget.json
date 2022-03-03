@@ -7,11 +7,11 @@
   ],
   "key": {
     "B": {
-      "tag": "c:titanium_nuggets"
+      "tag": "c:tungsten_nuggets"
     }
   },
   "result": {
-    "item": "ymetallib:titanium_ingot",
+    "item": "ymetallib:tungsten_ingot",
     "count": 1
   }
 }

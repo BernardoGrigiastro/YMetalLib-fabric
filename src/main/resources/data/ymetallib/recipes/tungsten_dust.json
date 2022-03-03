@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "c:tungsten_ingots"
+    },
+    {
+      "tag": "ymetallib:hammers"
+    }
+  ],
+  "result": {
+    "item": "ymetallib:tungsten_dust",
+    "count": 1
+  }
+}

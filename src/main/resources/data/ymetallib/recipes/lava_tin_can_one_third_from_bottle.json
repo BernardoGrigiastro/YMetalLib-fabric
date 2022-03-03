@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ymetallib:tin_can"
+    },
+    {
+      "item": "ymetallib:lava_tin_can_one_third"
+    }
+  ],
+  "result": {
+    "item": "ymetallib:lava_tin_can_one_third",
+    "count": 1
+  }
+}

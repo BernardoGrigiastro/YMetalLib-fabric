@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:lava_bucket",
+        "ymetallib:lava_tin_can"
+    ]
+}

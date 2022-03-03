@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "ymetallib:tin_can"
+  },
+  "result": "ymetallib:air",
+  "experience": 1.00,
+  "cookingtime": 1000
+}

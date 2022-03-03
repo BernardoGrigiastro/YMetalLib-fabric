@@ -1,0 +1,13 @@
+{
+    "replace": false,
+    "values": [
+        "ymetallib:tungsten_block",
+        "ymetallib:tungsten_ore",
+        "ymetallib:deepslate_tungsten_ore",
+        "ymetallib:diorite_tungsten_ore",
+        "ymetallib:granite_tungsten_ore",
+        "ymetallib:andesite_tungsten_ore",
+        "ymetallib:nether_tungsten_ore",
+        "ymetallib:end_tungsten_ore"
+    ]
+}

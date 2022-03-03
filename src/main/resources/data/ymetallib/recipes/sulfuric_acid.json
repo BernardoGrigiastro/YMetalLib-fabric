@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ymetallib:tin_can"
+    },
+    {
+      "tag": "c:sulfur_dusts"
+    },
+    {
+      "item": "ymetallib:air"
+    },
+    {
+      "item": "minecraft:potion"
+    }
+  ],
+  "result": {
+    "item": "ymetallib:sulfuric_acid_tin_can",
+    "count": 1
+  }
+}

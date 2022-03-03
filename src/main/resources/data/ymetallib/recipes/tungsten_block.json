@@ -1,17 +1,17 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "BBB",
-    "BBB",
-    "BBB"
+    "TTT",
+    "TTT",
+    "TTT"
   ],
   "key": {
-    "B": {
-      "tag": "c:titanium_nuggets"
+    "T": {
+      "tag": "c:tungsten_ingots"
     }
   },
   "result": {
-    "item": "ymetallib:titanium_ingot",
+    "item": "ymetallib:tungsten_block",
     "count": 1
   }
 }

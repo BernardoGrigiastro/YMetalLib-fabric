@@ -4,13 +4,13 @@
   "version": "${version}",
 
   "name": "YMetalLib",
-  "description": "Ingots, Plates, Ores!",
+  "description": "Ingots, Plates, Ores! All about metals",
   "authors": [
-    "yaeyewon112"
+    "Hye0Ngit"
   ],
   "contact": {
-    "homepage": "http://yewonmods.kro.kr",
-    "sources": "https://github.com/yaeyewon112/ymetallib"
+    "homepage": "https://www.yewonmods.kro.kr",
+    "sources": "https://github.com/Hye0Ngit/YMetalLib-fabric"
   },
 
   "license": "MIT",
@@ -27,7 +27,7 @@
   ],
 
   "depends": {
-    "fabricloader": ">=0.11.6",
+    "fabricloader": ">=0.13.2",
     "fabric": "*",
     "minecraft": "1.17.x",
     "java": ">=16"

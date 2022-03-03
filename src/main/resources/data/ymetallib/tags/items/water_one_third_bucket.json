@@ -1,0 +1,7 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:potion",
+        "ymetallib:water_tin_can_one_third"
+    ]
+}
